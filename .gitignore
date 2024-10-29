@@ -3,7 +3,10 @@ fig
 figs
 figs_script
 *.ipynb
-
+mnist
+trash
+data
+default
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
